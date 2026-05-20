@@ -1,3 +1,0 @@
-git rm nome-do-arquivo
-git commit -m "Remove arquivo desnecessário"
-git push
